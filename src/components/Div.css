@@ -1,0 +1,5 @@
+.col {
+  display: flex;
+  width: 4em;
+  position: relative;
+}
